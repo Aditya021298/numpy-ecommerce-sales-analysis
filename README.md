@@ -2,6 +2,11 @@
 
 This project demonstrates the use of NumPy for analyzing e-commerce sales data and generating business insights.
 
+## Files
+
+- `Numpy_mini_proj.ipynb` → Jupyter Notebook containing the complete analysis
+- `Numpy_mini_proj.pdf` → Exported PDF version of the project
+
 ## Skills Demonstrated
 
 - NumPy Arrays
